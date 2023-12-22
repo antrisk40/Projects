@@ -1,0 +1,14 @@
+h1{
+    color:maroon;
+}
+
+.posts{
+    background-color: coral;
+    border-radius: 5px;
+    padding-left: 0.5cm;
+    padding-bottom: 0.5cm;
+}
+
+.user{
+    font-style: italic;
+}
